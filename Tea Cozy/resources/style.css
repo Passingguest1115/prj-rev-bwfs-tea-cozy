@@ -9,14 +9,14 @@ body{
 nav{
 	text-align: right;
 	flex-grow: 1;
-  margin-right: 20px;
-  margin-top: 0px;
-  padding: 0px;
+  	margin-right: 20px;
+  	margin-top: 0px;
+  	padding: 0px;
 }
 nav span{
 	display: inline-block;
 	padding: 20px 10px;
-  margin-top: 0px;
+  	margin-top: 0px;
 }
 header{
 	border-bottom: 1px solid seashell;
@@ -26,8 +26,8 @@ header{
 	width: 100%;
 	z-index: 1;
 	align-items: center;
-  margin-top: -8px;
-  padding: 0px;
+  	margin-top: -8px;
+  	padding: 0px;
 }
 header img{
 	height: 50px;
